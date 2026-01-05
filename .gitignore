@@ -1,0 +1,1492 @@
+# .gitignore for STranslate Plugin
+
+# Build results
+artifacts/
+obj/
+bin/
+*.pdb
+*.dll
+*.exe
+*.nupkg
+*.spkg
+
+# IDE
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult/
+[Bb]uild[Ll]og/
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of DNX
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DNX
+project.lock.json
+project.fragment.lock.json
+*.lock.json
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+[Ll]og/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+[Bb]in/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Visual Studio cache files
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/
+
+# Visual Studio 2015
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# .NET Core
+project.assets.json
+*.csproj.nuget*.props
+*.csproj.nuget*.targets
+
+# Cake
+tools/
+
+# FAKE
+.fake/
+
+# Cakebuild
+tools/
+
+# Build results
+[Aa]rtifacts/

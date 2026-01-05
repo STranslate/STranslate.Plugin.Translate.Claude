@@ -1,0 +1,10 @@
+{
+  "PluginID": "f0f16eb9c64a951320b8265fee3e55be",
+  "Name": "Claude",
+  "Description": "Claude plugin for STranslate",
+  "Author": "zggsong",
+  "Version": "1.0.0",
+  "Website": "https://github.com/STranslate/STranslate.Plugin.Translate.Claude",
+  "ExecuteFileName": "STranslate.Plugin.Translate.Claude.dll",
+  "IconPath": "icon.png"
+}
