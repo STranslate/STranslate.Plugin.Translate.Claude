@@ -123,11 +123,7 @@ public class Main : LlmTranslatePluginBase
             return;
         }
 
-
-        UriBuilder uriBuilder = new(Settings.Url);
-        // 如果路径不是有效的API路径结尾，使用默认路径
-        if (uriBuilder.Path == "/" || uriBuilder.Path == "/v1")
-            uriBuilder.Path = "/v1/messages";
+        var url = UrlHelper.BuildFinalUrl(Settings.Url, "/v1/messages");
 
         // 选择模型
         var model = Settings.Model.Trim();
@@ -172,7 +168,7 @@ public class Main : LlmTranslatePluginBase
             }
         };
 
-        await Context.HttpService.StreamPostAsync(uriBuilder.Uri.ToString(), content, msg =>
+        await Context.HttpService.StreamPostAsync(url, content, msg =>
         {
             if (string.IsNullOrEmpty(msg?.Trim()) || msg.StartsWith("event"))
                 return;
