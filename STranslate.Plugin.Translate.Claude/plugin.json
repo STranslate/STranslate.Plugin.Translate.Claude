@@ -3,7 +3,7 @@
   "Name": "Claude",
   "Description": "Claude plugin for STranslate",
   "Author": "zggsong",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Website": "https://github.com/STranslate/STranslate.Plugin.Translate.Claude",
   "ExecuteFileName": "STranslate.Plugin.Translate.Claude.dll",
   "IconPath": "icon.png"
