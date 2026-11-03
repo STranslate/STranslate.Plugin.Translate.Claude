@@ -135,16 +135,7 @@ public partial class SettingsViewModel : ObservableObject, IDisposable
                     .Replace("$content", "Hello world");
             }
 
-            // 温度限定
-            var temperature = Math.Clamp(_settings.Temperature, 0, 2);
-            var content = new Dictionary<string, object>
-            {
-                ["model"] = model,
-                ["messages"] = messages,
-                ["temperature"] = temperature,
-                ["max_tokens"] = 1024,
-                ["stream"] = true
-            };
+            var content = Main.BuildRequestBody(model, messages, _settings.Temperature);
 
             //https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts#how-to-give-claude-a-role
             var systemMsg = messages.FirstOrDefault(x => x.Role.Equals("system", StringComparison.InvariantCultureIgnoreCase));
